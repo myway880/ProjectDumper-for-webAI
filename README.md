@@ -29,9 +29,7 @@ Main use case: Create a code dump of your project to share with an AI (e.g., Gro
    ```
 
 2. Install dependencies (Python 3.8+ required):
-   ```
-   pip install -r requirements.txt
-   ```
+
    - Note: For 7Z backups, install `py7zr` manually if needed: `pip install py7zr`.
    - For minification, install optional tools like `terser` (Node.js), `cleancss`, or `html-minifier` via npm.
 
